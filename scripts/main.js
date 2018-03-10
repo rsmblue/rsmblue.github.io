@@ -11,8 +11,11 @@ myImage.onclick = function() {
 
 document.querySelector('h2').textContent = 'click the picture, please';
 
+
 alert('hello, stranger!');
 
+
+/*
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
 
